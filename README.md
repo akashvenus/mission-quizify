@@ -2,7 +2,7 @@
 [![Model](https://img.shields.io/badge/-Gemini%20Pro-8E75B2?logo=google-gemini&logoColor=white)](https://developers.google.com/generative/models/gemini)
 [![Python](https://img.shields.io/badge/-Python%203.10-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Database](https://img.shields.io/badge/database-Chroma%20DB-blue.svg)](https://docs.chromadb.com/)
-
+[![UI](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 This project leverages a Retrieval-Augmented-Generation(RAG) approach to create quizzes from PDFs. It takes a PDF document as input and generates multiple-choice questions based on the provided topic and desired number of questions. The topic can either be explicitly specified or extracted from the PDF content itself.
 
